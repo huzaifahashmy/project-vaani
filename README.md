@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Doctor ⇄ Patient Voice Translator — Phase 1
 
 Translation + TTS only. No medical extraction, no graph, no urgency logic.
@@ -111,3 +112,7 @@ across a refresh, there's no login, no routing, no local storage.
   manual EN/HI override for safety.
 - No persistence, no auth, no medical logic — that's Phase 2+.
 - Hindi TTS quality/availability depends on the OS's installed voices.
+=======
+# project-vaani
+**Vaani** is a local AI-powered English⇄Hindi medical voice translator. It uses Whisper for speech-to-text, Gemma via Ollama for translation and clinical summarization, and browser TTS for spoken output. Real-time conversations, live transcripts, and structured summaries help doctors and patients communicate while keeping all data on-device.
+>>>>>>> f5b92cbdd8cadbbf1eebf212d25b0360ac1dbfa3
